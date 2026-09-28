@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-02-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Falta iluminação pública na Rua das Acácias há mais de um mês, moradores relatam insegurança à noite."
+  },
+  {
+    "id": "M002",
+    "data": "2026-02-05",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Bueiro aberto na esquina da Rua XV de Novembro representa risco grave para pedestres e ciclistas."
+  },
+  {
+    "id": "M003",
+    "data": "2026-02-07",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Existe um buraco enorme na Av. Brasil, próximo ao número 450, que já danificou pneus de vários carros."
+  },
+  {
+    "id": "M017",
+    "data": "2026-03-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto todo esburacado da avenida principal está causando acidentes constantes com motociclistas."
+  },
+  {
+    "id": "M004",
+    "data": "2026-02-10",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Calçada quebrada em frente à escola municipal dificulta a passagem de cadeirantes e idosos."
+  },
+  {
+    "id": "M009",
+    "data": "2026-02-18",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Sinal de trânsito da Av. Getúlio Vargas está apagado há uma semana, causando engarrafamentos e risco de colisão no cruzamento."
+  },
+  {
+    "id": "M014",
+    "data": "2026-02-25",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Moro no bairro Jardim das Flores há 12 anos e nunca vi a situação da nossa rua tão precária. O asfalto está destruído em pelo menos quatro pontos, formando crateras que enchem de água na chuva e viram armadilhas para carros e motos. Já presenciei dois acidentes este mês: um motociclista caiu ao desviar de um buraco e um carro furou o pneu na madrugada. A rede de drenagem parece entupida, a água fica empoçada por dias após a chuva, exalando mau cheiro e atraindo mosquitos. Já protocolei três reclamações anteriores sobre o mesmo assunto e nenhuma providência foi tomada. Peço que a prefeitura envie uma equipe de manutenção com urgência."
+  },
+  {
+    "id": "M028",
+    "data": "2026-03-14",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Poda de árvore necessária na Praça Central: galhos estão encostando na fiação elétrica e oferecem risco de queda."
+  },
+  {
+    "id": "M008",
+    "data": "2026-02-15",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro Esperança está sem médico há duas semanas, pacientes crônicos ficaram sem atendimento."
+  },
+  {
+    "id": "M022",
+    "data": "2026-03-08",
+    "categoria_oficial": "saúde",
+    "texto": "Está faltando atendimento médico no PSF da nossa região, os moradores não conseguem marcar consulta."
+  },
+  {
+    "id": "M005",
+    "data": "2026-02-11",
+    "categoria_oficial": "saúde",
+    "texto": "Falta de remédio no posto de saúde central: pacientes hipertensos estão há uma semana sem conseguir a medicação."
+  },
+  {
+    "id": "M010",
+    "data": "2026-02-19",
+    "categoria_oficial": "saúde",
+    "texto": "Demora de mais de quatro horas no atendimento do pronto-socorro municipal, mesmo em casos considerados urgentes."
+  },
+  {
+    "id": "M019",
+    "data": "2026-03-04",
+    "categoria_oficial": "saúde",
+    "texto": "Preciso relatar um problema sério com o acompanhamento pré-natal da minha esposa. Marcamos a primeira consulta há mais de 45 dias e até agora não fomos chamados, mesmo sendo uma gestação de risco pela idade. Ao ligar para a unidade básica de saúde, informam que a agenda do obstetra está lotada e sem previsão de vaga. Fomos orientados a procurar atendimento particular, o que não temos condições de arcar. O posto também não possui exames de ultrassom no local, exigindo deslocamento para outro bairro, difícil sem transporte próprio. Peço à ouvidoria que intervenha junto à secretaria de saúde para agilizar esse atendimento."
+  },
+  {
+    "id": "M024",
+    "data": "2026-03-11",
+    "categoria_oficial": "saúde",
+    "texto": "Vacina contra a gripe acabou no posto de saúde do bairro Vila Nova, idosos estão sendo dispensados sem imunização."
+  },
+  {
+    "id": "M033",
+    "data": "2026-03-22",
+    "categoria_oficial": "saúde",
+    "texto": "Ambulância do SAMU demorou mais de uma hora para chegar em uma ocorrência de emergência cardíaca no bairro Alto da Serra."
+  },
+  {
+    "id": "M038",
+    "data": "2026-03-29",
+    "categoria_oficial": "saúde",
+    "texto": "Falta de dentista na unidade de saúde bucal do centro, fila de espera já passa de três meses para tratamento simples."
+  },
+  {
+    "id": "M006",
+    "data": "2026-02-12",
+    "categoria_oficial": "segurança",
+    "texto": "Aumento de assaltos na Rua do Comércio durante a noite, moradores pedem reforço de ronda policial na região."
+  },
+  {
+    "id": "M011",
+    "data": "2026-02-20",
+    "categoria_oficial": "segurança",
+    "texto": "Câmeras de monitoramento da praça central estão quebradas há meses, favorecendo furtos e vandalismo."
+  },
+  {
+    "id": "M031",
+    "data": "2026-03-19",
+    "categoria_oficial": "segurança",
+    "texto": "A lâmpada queimada na praça do bairro deixa o local totalmente escuro à noite, o que preocupa os moradores."
+  },
+  {
+    "id": "M015",
+    "data": "2026-02-26",
+    "categoria_oficial": "segurança",
+    "texto": "Grupo de motociclistas faz manobras perigosas e racha na Av. Central todas as noites de sexta-feira."
+  },
+  {
+    "id": "M020",
+    "data": "2026-03-05",
+    "categoria_oficial": "segurança",
+    "texto": "Ponto de tráfico de drogas identificado próximo à praça do bairro São José, moradores relatam movimentação suspeita constante."
+  },
+  {
+    "id": "M025",
+    "data": "2026-03-12",
+    "categoria_oficial": "segurança",
+    "texto": "Guarda municipal não realiza rondas noturnas no bairro Industrial há semanas, aumentando a sensação de insegurança."
+  },
+  {
+    "id": "M034",
+    "data": "2026-03-23",
+    "categoria_oficial": "segurança",
+    "texto": "Muro de terreno baldio desabou e facilita a entrada de pessoas estranhas, gerando insegurança para os vizinhos."
+  },
+  {
+    "id": "M039",
+    "data": "2026-03-30",
+    "categoria_oficial": "segurança",
+    "texto": "Sinalização de pare foi roubada no cruzamento da Rua dos Ipês, aumentando o risco de acidentes de trânsito."
+  },
+  {
+    "id": "M007",
+    "data": "2026-02-14",
+    "categoria_oficial": "educação",
+    "texto": "Escola municipal Pequeno Príncipe está sem professor de matemática há três semanas, alunos ficam sem aula na disciplina."
+  },
+  {
+    "id": "M012",
+    "data": "2026-02-21",
+    "categoria_oficial": "educação",
+    "texto": "Falta professor de matemática na escola municipal do bairro, os alunos do 9º ano estão sem aula da matéria."
+  },
+  {
+    "id": "M016",
+    "data": "2026-02-28",
+    "categoria_oficial": "educação",
+    "texto": "Merenda escolar da creche municipal está atrasada há uma semana, crianças recebem apenas lanche simples."
+  },
+  {
+    "id": "M021",
+    "data": "2026-03-06",
+    "categoria_oficial": "educação",
+    "texto": "Telhado da escola estadual está com goteiras, salas de aula alagam em dias de chuva forte."
+  },
+  {
+    "id": "M027",
+    "data": "2026-03-13",
+    "categoria_oficial": "educação",
+    "texto": "Sou pai de um aluno do 5º ano da escola municipal do bairro Boa Vista e preciso denunciar a situação estrutural precária do prédio. Há goteiras em pelo menos três salas, obrigando professores a usar baldes nos dias de chuva e interrompendo as aulas. O banheiro dos alunos tem vazamento há mais de dois meses, gerando mau cheiro e mofo nas paredes. Faltam materiais básicos como giz, apagador e papel, e os professores compram itens do próprio bolso. A direção confirmou ter enviado pedidos de manutenção à secretaria de educação sem resposta. Solicito providências urgentes, pois a estrutura está comprometendo a qualidade do ensino das crianças."
+  },
+  {
+    "id": "M032",
+    "data": "2026-03-20",
+    "categoria_oficial": "educação",
+    "texto": "Falta de transporte escolar para alunos da zona rural, várias crianças estão faltando aula por falta de ônibus."
+  },
+  {
+    "id": "M037",
+    "data": "2026-03-27",
+    "categoria_oficial": "educação",
+    "texto": "Biblioteca da escola municipal está fechada há dois meses por falta de funcionário responsável pelo acervo."
+  },
+  {
+    "id": "M013",
+    "data": "2026-02-24",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Descarte irregular de lixo no terreno baldio da Rua das Palmeiras está atraindo ratos e insetos."
+  },
+  {
+    "id": "M018",
+    "data": "2026-03-03",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Esgoto a céu aberto na Rua dos Coqueiros exala mau cheiro forte e representa risco de contaminação."
+  },
+  {
+    "id": "M023",
+    "data": "2026-03-09",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Desmatamento irregular observado na área de preservação próxima ao Rio Verde, árvores nativas sendo cortadas."
+  },
+  {
+    "id": "M026",
+    "data": "2026-03-13",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Queimada não autorizada em terreno próximo ao bairro Chácaras, fumaça está afetando a respiração dos moradores."
+  },
+  {
+    "id": "M029",
+    "data": "2026-03-16",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Poluição sonora de bar com música alta até de madrugada no bairro residencial, moradores não conseguem dormir."
+  },
+  {
+    "id": "M030",
+    "data": "2026-03-17",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Venho relatar um problema ambiental grave que afeta nossa vizinhança há cerca de seis meses. Uma indústria de pequeno porte nos fundos do bairro Vila Verde vem despejando resíduos líquidos no córrego que corta a região, deixando a água escura e com odor forte, principalmente de madrugada. Moradores relatam problemas respiratórios e irritação nos olhos, e já vimos peixes mortos boiando na superfície em três ocasiões. Denunciamos ao órgão ambiental estadual, mas não recebemos retorno sobre fiscalização. Tentamos contato com a empresa, mas fomos ignorados. Esse córrego deságua perto de uma área onde crianças brincam, agravando o risco à saúde pública. Pedimos providências urgentes antes que a situação se torne irreversível."
+  },
+  {
+    "id": "M035",
+    "data": "2026-03-24",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Escrevo para relatar o acúmulo constante de lixo na via pública no trecho final da Rua Tiradentes, perto da antiga fábrica desativada. Há mais de dois meses, moradores descartam entulho de obra, móveis velhos e sacos de lixo doméstico na calçada, formando um depósito a céu aberto. A coleta da prefeitura passa só duas vezes por semana, insuficiente para o volume gerado, e o caminhão às vezes nem consegue se aproximar por causa de carros estacionados irregularmente. Como consequência, o local já tem forte proliferação de ratos e baratas, além de cheiro insuportável nos dias de calor. Também notamos catadores informais revirando o lixo, se ferindo com vidros e materiais cortantes. Solicitamos urgência na limpeza e instalação de contêineres adequados, além de fiscalização mais rígida."
+  },
+  {
+    "id": "M036",
+    "data": "2026-03-25",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Corte de árvores antigas na Praça da Matriz sem autorização visível, moradores questionam se houve estudo de impacto ambiental."
+  },
+  {
+    "id": "M040",
+    "data": "2026-03-31",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Vazamento de água tratada na rede da Rua Bela Vista está durando dias sem reparo, desperdiçando um recurso essencial."
+  }
+]
